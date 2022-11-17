@@ -8,6 +8,8 @@
   <li>🌱 Atualmente estou aprendendo: Javacript, HTML, CSS, SQL</li>
   <li>📫 Como me contatar: tavares.ag.gabriel@gmail.com</li>
   </ul>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tavaropolis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Redes sociais</h2>
   <div> 
