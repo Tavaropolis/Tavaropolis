@@ -1,6 +1,6 @@
 <h2>Olá, seja bem-vindo ao meu perfil! 👋</h2>
   <p>Olá, eu sou o Gabriel e seja muito bem-vindo ao meu perfil do Github!😊</p>
-  <p>Sou estudante do primeiro ano de Análise e Desenvolvimentos de Sistemas pela IFSP de Capivari, e bacharel em Biologia pela Unesp de Rio Claro. Sou apaixonado por tecnologia e adoro sempre aprender mais sobre. Atualmente me dedicando para me tornar um futuro dev FullStack.</p>
+  <p>Sou estudante do segundo ano de Análise e Desenvolvimentos de Sistemas pela IFSP de Capivari, e bacharel em Biologia pela Unesp de Rio Claro. Sou apaixonado por tecnologia e adoro sempre aprender mais sobre. Atualmente me dedicando para me tornar um futuro dev FullStack.</p>
 
 <h2>Informações</h2>
   <ul>
